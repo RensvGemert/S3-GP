@@ -1,6 +1,6 @@
 ## Conceptual Model
 
-![Conceptueel_model_PIM_Piada](https://user-images.githubusercontent.com/84020568/158345973-aa104ccf-2fff-4a37-84e9-8e46a686c628.jpg)
+![Conceptueel model PIM Piada (1)](https://user-images.githubusercontent.com/63857652/158381598-2127fa36-4d9d-4729-acd2-96a367a9dbde.jpg)
 
 ## Login Screen
 
