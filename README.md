@@ -1,31 +1,30 @@
+# Piada PIM System
+
 #### Table of Contents  
 - [Introduction](#introduction)
 - [Project description](#project-description)
-- [Preparation](#preparation)
 - [Technical choices:](#technical-choices)
+- [Other content](#other-content)
 
 ## Introduction
-We are Faizal, Jochem, Mitchell, Rens, Sander, Sander and for Semester 3 we are building a PIM system.
+We are a group of 6 software engineering students with ❤️ for coding.
+Our team members include: Faizal, Jochem, Mitchell, Rens, Sander, Sander.
 
 ## Project description
 WoC (World of Content) has given us, S3-DB02-1, the mission to create a mini PIM to our liking. We received some general information about WoC and started brainstorming from there.
 
 
 
-## Preparation
-* Conceptual model:
-
-![Conceptueel_model_PIM_Piada](https://user-images.githubusercontent.com/84020568/158345973-aa104ccf-2fff-4a37-84e9-8e46a686c628.jpg)
-
-
-
-
-## Technical choices:
+## Technical choices
 
 - Standard spoken language: English
 - Backend-language: Java - springboot
 - Frontend-language: React.js
 - DataBase: MySQL
 
-Click [here]() to know why we went with these options.
 
+## Other content
+
+- [Why we did this](https://github.com/RensvGemert/S3-GP/blob/main/Why%20we%20did%20this%20-%20Our%20Project%20Plan.md)
+- [User stories](https://github.com/RensvGemert/S3-GP/blob/main/user-stories.md)
+- [Prototypes](https://github.com/RensvGemert/S3-GP/blob/main/Prototype-sketches.md)
