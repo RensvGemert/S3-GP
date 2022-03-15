@@ -11,3 +11,5 @@
 ![Product screen](https://user-images.githubusercontent.com/84020568/158355921-84136bea-e8b8-4ae7-a5da-b2b0fc9f13c4.png)
 
 ## Database Diagram
+
+<img width="439" alt="db" src="https://user-images.githubusercontent.com/79633852/158380531-a2507ec5-4cb0-432e-bfe0-90615e569fac.PNG">
