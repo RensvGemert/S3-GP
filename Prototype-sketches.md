@@ -12,4 +12,6 @@
 
 ## Database Diagram
 
-<img width="439" alt="db" src="https://user-images.githubusercontent.com/79633852/158380531-a2507ec5-4cb0-432e-bfe0-90615e569fac.PNG">
+
+
+<img width="423" alt="Knipsel2" src="https://user-images.githubusercontent.com/79633852/158384696-96206c56-94bb-4aac-a21f-9ce55d7b19df.PNG">
