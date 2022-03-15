@@ -44,10 +44,10 @@ All customers - suppliers and retailers - must have an account to access the pla
 ## Webapplication
 
 ### Technical Agreements
-Language: English
-Backend: Java (Spring)
-Frontend: React.js
-Database: MySql
+* Language: English
+* Backend: Java (Spring)
+* Frontend: React.js
+* Database: MySql
 
 ### Backend
 
