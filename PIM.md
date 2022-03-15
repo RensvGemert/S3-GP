@@ -17,6 +17,7 @@
 
 ## Voorbereiding
 * Conceptueel model:
+https://media.discordapp.net/attachments/940529481184083968/953219902993494056/Conceptueel_model_PIM_Piada.jpg?width=671&height=671
 
 * Architectuur:
 
