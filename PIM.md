@@ -1,18 +1,18 @@
 #### Table of Contents  
-* [Introductie](#Introductie)
-* [Project omschrijving](#Project-omschrijving)  
-* [Voorbereiding](#Voorbereiding)
-* [Webapplicatie](#Webapplicatie)
-    * [Technische afspraken](#Technische-afspraken)
+* [Introduction](#Introduction)
+* [Project description](#Project-description)  
+* [Preparation](#Preparation)
+* [Webapplication](#Webapplication)
+    * [Technical Agreements](#Technical-agreements)
     * [Backend](#Backend)
     * [Frontend](#Frontend)
     * [API](#API)
     * [Database](#Database)
 
-## Introductie
-Wij zijn Faizal, Jochem, Mitchell, Rens, Sander, Sander en wij gaan voor semester 3 een PIM systeem maken.
+## Introduction
+We are Faizal, Jochem, Mitchell, Rens, Sander, Sander and for Semester 3 we are building a PIM system.
 
-## Project omschrijving
+## Project description
 WoC (World of Content) has given us, S3-DB02-1, the mission to create a mini PIM to our liking. We received some general information about WoC and started brainstorming from there.
 
 We chose to focus on competition. This means the following:
@@ -32,18 +32,18 @@ In addition to these 2 important roles, we naturally have the site owners (e.g. 
 
 All customers - suppliers and retailers - must have an account to access the platform's content. When creating an account, they can choose which role they have. If the customer chooses the retailer role, they will have access to all suppliers and retailers on the platform. The suppliers for what they deliver, and the retailers to, for example, look at basic statistics of others. A supplier will also have to be able to view the statistics of other suppliers in order to adjust its own, such as prices and delivery updates.
 
-## Voorbereiding
-* Conceptueel model:
+## Preparation
+* Conceptual model:
 
 ![Conceptueel_model_PIM_Piada](https://user-images.githubusercontent.com/84020568/158345973-aa104ccf-2fff-4a37-84e9-8e46a686c628.jpg)
 
-* Architectuur:
+* Architecture:
 
 * Database diagram:
 
-## Webapplicatie
+## Webapplication
 
-### Technische afspraken
+### Technical Agreements
 Language: English
 Backend: Java (Spring)
 Frontend: React.js
