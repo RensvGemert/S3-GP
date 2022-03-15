@@ -20,14 +20,14 @@ In addition to these 2 important roles, we naturally have the site owners (e.g. 
 
 All customers - suppliers and retailers - must have an account to access the platform's content. When creating an account, they can choose which role they have. If the customer chooses the retailer role, they will have access to all suppliers and retailers on the platform. The suppliers for what they deliver, and the retailers to, for example, look at basic statistics of others. A supplier will also have to be able to view the statistics of other suppliers in order to adjust its own, such as prices and delivery updates.
 
-Next up --> [User stories]().
+Next up --> [User stories](https://github.com/RensvGemert/S3-GP/blob/main/user-stories.md).
 
----
+<br />
 
 ## The technical side
 An overview of chosen technical components, programming languages and build-tools.
 
-## Java.. Why though?
+### Java.. Why though?
 There were no specific requirements on a programming language set by WoC, so we were free to chose our own.
 We chose Java as we wanted to learn a new programming language. We mainly used C# in our previous year and as Java has a logical affiliation with C#, we started to look more into it.
 Today, Java is one of the most popular programming languages. It powers enterprise web apps, big data pipelines, mobile apps on android and more. Java has a "write once, run everywhere" flexibility that is far more beneficial than one might expect. Instead of compiling to machine-code, like C or C++, it compiles to byte-code, that can run on any operating system without recompiling. Java uses a Java Virtual Machine (JVM) to execute and the machine in question just needs the Java Runtime Environment (JRE) installed.
@@ -36,10 +36,10 @@ As Java is so widely used, support for this programming language is not hard to 
 
 As almost all our group members plan on using Java in their individual project, it can help in troubleshooting both sides and enhance our productivity.
 
-## Maven vs Gradle
+### Maven vs Gradle
 What tool is better suited for our project according to our needs? According to javaatpoint.com, Gradle as well as maven are both considered standard and widely used amongst developers. While Gradle is a popular build tool for Java, Maven is an older and generally used alternative, but can work better with other frameworks such as spring or hibernate. Some key differences between the two are listed below:
 
-## Gradle	Maven
+### Gradle	Maven
 It is a build automation system that uses a Groovy-based DSL (domain-specific language )	It is a software project management system that is primarily used for java projects.
 It does not use an XML file for declaring the project configuration.	It uses an XML file for declaring the project, its dependencies, the build order, and its required plugin.
 It is based on a graph of task dependencies that do the work.	It is based on the phases of the fixed and linear model.
@@ -56,8 +56,9 @@ Gradle's benefits include writing a build script with Java programming language,
 
 Our choice for this project: Maven
 
-## React
+### React
 Credits to Fireship:
+[![react in 100 seconds](https://user-images.githubusercontent.com/45943209/158355496-716673dd-4cc7-404f-9823-45c9f8b71d02.png)](https://youtu.be/Tn6-PIqc4UM)
 
 
 
