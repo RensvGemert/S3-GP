@@ -2,12 +2,11 @@
 * [Introductie](#Introductie)
 * [Project omschrijving](#Project-omschrijving)  
 * [Webapplicatie](#Webapplicatie)
-    * [Technische afspraken](#)
-    * [Backend](#)
-    * [Frontend](#)
-    * [API](#)
-    * [Database](#)
-    *  
+    * [Technische afspraken](#Technische-afspraken)
+    * [Backend](#Backend)
+    * [Frontend](#Frontend)
+    * [API](#API)
+    * [Database](#Database)
 
 ## Introductie
 (insert wie wij zijn)
@@ -16,4 +15,14 @@
 (insert project introductie)
 
 ## Webapplicatie
-(web applicatie technische afspraken)
+(insert het idee, wat gaan we maken etc)
+
+### Technische afspraken
+
+### Backend
+
+### Frontend
+
+### API
+
+### Database
