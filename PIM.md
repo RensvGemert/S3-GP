@@ -12,10 +12,9 @@
 (insert wie wij zijn)
 
 ## Project omschrijving
-(insert project introductie)
+(insert het idee, wat gaan we maken etc)
 
 ## Webapplicatie
-(insert het idee, wat gaan we maken etc)
 
 ### Technische afspraken
 
