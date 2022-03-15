@@ -1,6 +1,7 @@
 #### Table of Contents  
 * [Introductie](#Introductie)
 * [Project omschrijving](#Project-omschrijving)  
+* [Voorbereiding](#Voorbereiding)
 * [Webapplicatie](#Webapplicatie)
     * [Technische afspraken](#Technische-afspraken)
     * [Backend](#Backend)
@@ -13,6 +14,13 @@
 
 ## Project omschrijving
 (insert het idee, wat gaan we maken etc)
+
+## Voorbereiding
+* Conceptueel model:
+
+* Architectuur:
+
+* Database diagram:
 
 ## Webapplicatie
 
