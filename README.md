@@ -7,7 +7,7 @@
 - [Other content](#other-content)
 
 ## Introduction
-We are a group of 6 software engineering students with ❤️ for coding.
+We are a group of 6 software engineering students with ❤️ making and designing software applications/systems.
 Our team members include: Faizal, Jochem, Mitchell, Rens, Sander, Sander.
 
 ## Project description
